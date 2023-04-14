@@ -1,0 +1,27 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 1rem;
+	text-align: center;
+}
+
+.opcion {
+	background-color: #f4f4f4;
+	border: 1px solid #ccc;
+	cursor: pointer;
+	margin: 1rem;
+	padding: 1rem;
+	transition: all 0.2s ease-in-out;
+}
+
+.opcion:hover {
+	background-color: #ccc;
+}
+
+h2 {
+	margin-bottom: 0.5rem;
+}
+
+p {
+	margin-top: 0;
+}
